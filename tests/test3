@@ -1,0 +1,11 @@
+One big cycle
+This is max of permutation for merlins default prolog stack size
+A B
+B C
+C D
+D E
+E F
+F G
+G H
+H I
+I A
